@@ -1,8 +1,9 @@
 # Emotion Detection CNN - DL Project  
 **Deep Learning Project for Emotion Detection with Docker and Jenkins Pipeline**
 
-This repository contains a deep learning-based **Emotion Detection** project. It uses **Docker** for containerization and **Jenkins** for continuous integration and deployment. The project is designed to predict emotions from images using a pre-trained neural network and can be easily deployed and managed in a CI/CD pipeline.
+#Deep Learning Project for Emotion Detection with Docker and Jenkins Pipeline
 
+#This repository contains a deep learning-based Emotion Detection project. It uses a Convolutional Neural Network (CNN) to classify facial expressions into different emotion categories (e.g., happy, sad, angry) using the Facial Expression Recognition dataset. The project is containerized using Docker and has a Jenkins pipeline for continuous integration and deployment.
 ## Project Structure
 
 - **Dockerfile**: Defines the environment required to run the project in a Docker container.  
